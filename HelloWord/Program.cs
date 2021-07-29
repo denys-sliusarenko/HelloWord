@@ -6,7 +6,7 @@ namespace HelloWord
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!dsdfsdsd");
+            Console.WriteLine("Hello World!d");
         }
     }
 }
